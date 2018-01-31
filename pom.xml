@@ -15,7 +15,7 @@
 
     <properties>
         <!--springboot中使用该属性制定jdk版本-->
-        <java.version>1.8</java.version>
+        <java.version>1.6</java.version>
     </properties>
 
     <dependencies>
